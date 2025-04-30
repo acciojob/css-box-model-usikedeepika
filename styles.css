@@ -6,5 +6,5 @@
       border: 15px solid blue; /* Border */
       padding: 50px; /* Padding */
       margin: 20px; /* Margin */
-      box-sizing: border-box; /* Ensures dimensions include padding and border */
+      /* Ensures dimensions include padding and border */
     }
